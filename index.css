@@ -1,0 +1,13 @@
+* 
+{
+    background-color: black;
+    
+} 
+.button_val 
+{
+    background: linear-gradient(45deg,pink,red);
+} 
+.edit 
+{
+    display: none;
+}
